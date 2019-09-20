@@ -1,0 +1,36 @@
+2019-08-02 10:20:10,183 INFO 16328 [egg-logrotator] agent logger reload: got log-reload message
+2019-08-20 17:28:15,097 INFO 1829 [egg:logger] init all loggers with options: {"dir":"/Users/gss/myEgg/logs/myegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-08-20 17:28:15,106 INFO 1829 [egg:core] dump config after load, 4ms
+2019-08-20 17:28:15,155 INFO 1829 [egg-watcher] Start watching: ["/Users/gss/myEgg/app","/Users/gss/myEgg/config","/Users/gss/myEgg/mocks","/Users/gss/myEgg/mocks_proxy","/Users/gss/myEgg/app.js"]
+2019-08-20 17:28:15,155 INFO 1829 [egg-watcher] Start watching: "/Users/gss/myEgg/app"
+2019-08-20 17:28:15,156 INFO 1829 [egg-watcher] Start watching: "/Users/gss/myEgg/config"
+2019-08-20 17:28:15,156 INFO 1829 [egg-watcher] Start watching: "/Users/gss/myEgg/mocks"
+2019-08-20 17:28:15,156 INFO 1829 [egg-watcher] Start watching: "/Users/gss/myEgg/mocks_proxy"
+2019-08-20 17:28:15,156 INFO 1829 [egg-watcher] Start watching: "/Users/gss/myEgg/app.js"
+2019-08-20 17:28:15,156 INFO 1829 [egg-watcher:agent] watcher start success
+2019-08-20 17:28:15,178 INFO 1829 [egg:core] dump config after ready, 3ms
+2019-08-20 17:30:46,836 WARN 1829 [agent:development] reload worker because /Users/gss/myEgg/app/controller/home.js___jb_old___ rename
+2019-08-20 17:30:46,632 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:30:46,634 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js","stat":{"dev":16777226,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":15484280,"size":256,"blocks":8,"atimeMs":1566293446000,"mtimeMs":1566293446000,"ctimeMs":1566293446000,"birthtimeMs":1566293446000,"atime":"2019-08-20T09:30:46.000Z","mtime":"2019-08-20T09:30:46.000Z","ctime":"2019-08-20T09:30:46.000Z","birthtime":"2019-08-20T09:30:46.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-20 17:30:46,634 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:31:14,830 WARN 1829 [agent:development] reload worker because /Users/gss/myEgg/app/controller/home.js___jb_old___ rename
+2019-08-20 17:31:14,629 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:31:14,629 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js","stat":{"dev":16777226,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":15484304,"size":249,"blocks":8,"atimeMs":1566293474000,"mtimeMs":1566293474000,"ctimeMs":1566293474000,"birthtimeMs":1566293474000,"atime":"2019-08-20T09:31:14.000Z","mtime":"2019-08-20T09:31:14.000Z","ctime":"2019-08-20T09:31:14.000Z","birthtime":"2019-08-20T09:31:14.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-20 17:31:14,630 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:32:11,859 WARN 1829 [agent:development] reload worker because /Users/gss/myEgg/app/controller/home.js___jb_old___ rename
+2019-08-20 17:32:11,656 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:32:11,656 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js","stat":{"dev":16777226,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":15484315,"size":294,"blocks":8,"atimeMs":1566293531000,"mtimeMs":1566293531000,"ctimeMs":1566293531000,"birthtimeMs":1566293531000,"atime":"2019-08-20T09:32:11.000Z","mtime":"2019-08-20T09:32:11.000Z","ctime":"2019-08-20T09:32:11.000Z","birthtime":"2019-08-20T09:32:11.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-20 17:32:11,657 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:47:23,853 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:47:23,854 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js","stat":{"dev":16777226,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":15484446,"size":271,"blocks":8,"atimeMs":1566294443000,"mtimeMs":1566294443000,"ctimeMs":1566294443000,"birthtimeMs":1566294443000,"atime":"2019-08-20T09:47:23.000Z","mtime":"2019-08-20T09:47:23.000Z","ctime":"2019-08-20T09:47:23.000Z","birthtime":"2019-08-20T09:47:23.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-20 17:47:23,854 INFO 1829 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/controller/home.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-08-20 17:47:24,059 WARN 1829 [agent:development] reload worker because /Users/gss/myEgg/app/controller/home.js___jb_old___ rename
+2019-08-20 23:08:41,666 ERROR 1829 nodejs.ClusterClientNoResponseError: client no response in 3602507ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/gss/myEgg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 1829
+hostname: gssdeiMac.local
+

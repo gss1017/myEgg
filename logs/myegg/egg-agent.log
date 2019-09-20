@@ -1,0 +1,37 @@
+2019-09-20 01:59:53,127 INFO 31667 [egg-logrotator] agent logger reload: got log-reload message
+2019-09-20 08:19:32,976 ERROR 31667 nodejs.ClusterClientNoResponseError: client no response in 3612729ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/gss/myEgg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 31667
+hostname: gssdeiMac.local
+
+2019-09-20 10:05:06,601 ERROR 31667 nodejs.ClusterClientNoResponseError: client no response in 6293615ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/gss/myEgg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 31667
+hostname: gssdeiMac.local
+
+2019-09-20 10:38:42,887 WARN 31667 [agent:development] reload worker because /Users/gss/myEgg/app/middleware/robot.js___jb_old___ rename
+2019-09-20 10:38:42,680 INFO 31667 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/middleware/robot.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-09-20 10:38:42,684 INFO 31667 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/middleware/robot.js","stat":{"dev":16777226,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":16298567,"size":451,"blocks":8,"atimeMs":1568947122000,"mtimeMs":1568947122000,"ctimeMs":1568947122000,"birthtimeMs":1568947122000,"atime":"2019-09-20T02:38:42.000Z","mtime":"2019-09-20T02:38:42.000Z","ctime":"2019-09-20T02:38:42.000Z","birthtime":"2019-09-20T02:38:42.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 10:38:42,685 INFO 31667 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/middleware/robot.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-09-20 10:39:01,999 WARN 31667 [agent:development] reload worker because /Users/gss/myEgg/app/middleware/robot.js___jb_old___ rename
+2019-09-20 10:39:01,795 INFO 31667 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/middleware/robot.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-09-20 10:39:01,796 INFO 31667 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/middleware/robot.js","stat":{"dev":16777226,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":16298596,"size":451,"blocks":8,"atimeMs":1568947141000,"mtimeMs":1568947141000,"ctimeMs":1568947141000,"birthtimeMs":1568947141000,"atime":"2019-09-20T02:39:01.000Z","mtime":"2019-09-20T02:39:01.000Z","ctime":"2019-09-20T02:39:01.000Z","birthtime":"2019-09-20T02:39:01.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 10:39:01,797 INFO 31667 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/gss/myEgg/app/middleware/robot.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-09-20 13:15:00,228 INFO 2089 [egg:logger] init all loggers with options: {"dir":"/Users/gss/myEgg/logs/myegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-20 13:15:00,237 INFO 2089 [egg:core] dump config after load, 4ms
+2019-09-20 13:15:00,282 INFO 2089 [egg-watcher] Start watching: ["/Users/gss/myEgg/app","/Users/gss/myEgg/config","/Users/gss/myEgg/mocks","/Users/gss/myEgg/mocks_proxy","/Users/gss/myEgg/app.js"]
+2019-09-20 13:15:00,282 INFO 2089 [egg-watcher] Start watching: "/Users/gss/myEgg/app"
+2019-09-20 13:15:00,282 INFO 2089 [egg-watcher] Start watching: "/Users/gss/myEgg/config"
+2019-09-20 13:15:00,282 INFO 2089 [egg-watcher] Start watching: "/Users/gss/myEgg/mocks"
+2019-09-20 13:15:00,282 INFO 2089 [egg-watcher] Start watching: "/Users/gss/myEgg/mocks_proxy"
+2019-09-20 13:15:00,282 INFO 2089 [egg-watcher] Start watching: "/Users/gss/myEgg/app.js"
+2019-09-20 13:15:00,283 INFO 2089 [egg-watcher:agent] watcher start success
+2019-09-20 13:15:00,309 INFO 2089 [egg:core] dump config after ready, 4ms

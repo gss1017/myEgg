@@ -1,0 +1,48 @@
+2019-08-21 06:29:43,590 INFO 1829 [Timer] /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 79216413ms at 2019-08-22 04:30:00.003
+2019-08-21 06:29:43,587 INFO 1865 [Job#1566340183587496259833942901] /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2019-08-21 06:29:43,592 INFO 1865 [Job#1566340183587496259833942901] /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 5ms
+2019-08-21 10:08:44,175 INFO 2986 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-21 10:08:44,175 INFO 2986 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-21 10:08:44,175 INFO 2986 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 19:31:10,188 INFO 30744 [Timer] /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 32329814ms at 2019-09-20 04:30:00.002
+2019-09-19 19:31:10,188 INFO 30744 [Timer] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 16129812ms at 2019-09-20 00:00:00.000
+2019-09-19 19:31:10,189 INFO 30744 [Timer] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 16130812ms at 2019-09-20 00:00:01.001
+2019-09-19 19:31:10,076 INFO 30745 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 19:31:10,076 INFO 30745 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 19:31:10,076 INFO 30745 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 19:53:40,400 INFO 31667 [Timer] /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 30979603ms at 2019-09-20 04:30:00.003
+2019-09-19 19:53:40,400 INFO 31667 [Timer] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 14779600ms at 2019-09-20 00:00:00.000
+2019-09-19 19:53:40,401 INFO 31667 [Timer] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 14780600ms at 2019-09-20 00:00:01.001
+2019-09-19 19:53:40,321 INFO 31668 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 19:53:40,321 INFO 31668 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 19:53:40,321 INFO 31668 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:26:44,578 INFO 32054 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:26:44,578 INFO 32054 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:26:44,578 INFO 32054 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:33:06,439 INFO 32233 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:33:06,439 INFO 32233 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:33:06,439 INFO 32233 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:33:21,525 INFO 32241 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:33:21,525 INFO 32241 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:33:21,525 INFO 32241 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:42:58,296 INFO 32813 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:42:58,296 INFO 32813 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:42:58,296 INFO 32813 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:43:03,061 INFO 32824 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:43:03,061 INFO 32824 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:43:03,061 INFO 32824 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:43:31,959 INFO 32844 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:43:31,959 INFO 32844 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:43:31,959 INFO 32844 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:44:20,420 INFO 32878 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:44:20,420 INFO 32878 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:44:20,420 INFO 32878 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-19 20:44:48,520 INFO 32898 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-19 20:44:48,520 INFO 32898 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-19 20:44:48,521 INFO 32898 [egg-schedule]: register schedule /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-20 01:59:52,117 INFO 31667 [Timer] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 79207888ms at 2019-09-21 00:00:00.005
+2019-09-20 01:59:52,116 INFO 32898 [Job#1568915992109582583885013281] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2019-09-20 01:59:52,129 INFO 32898 [Job#1568915992109582583885013281] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 12ms
+2019-09-20 01:59:53,117 INFO 32898 [Job#1568915993116582593931454761] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-09-20 01:59:53,124 INFO 32898 [Job#1568915993116582593931454761] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 7ms
+2019-09-20 01:59:53,119 INFO 31667 [Timer] /Users/gss/myEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 79207883ms at 2019-09-21 00:00:01.002

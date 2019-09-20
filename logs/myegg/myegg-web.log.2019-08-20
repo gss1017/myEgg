@@ -1,0 +1,33 @@
+2019-08-20 17:30:56,586 ERROR 1833 [-/127.0.0.1/-/9ms GET /home/index] nodejs.TypeError: this.ctx.logger is not a function
+    at HomeController.index (/Users/gss/myEgg/app/controller/home.js:7:18)
+    at Object.callFn (/Users/gss/myEgg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/gss/myEgg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/gss/myEgg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/gss/myEgg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/gss/myEgg/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/gss/myEgg/node_modules/koa-compose/index.js:45:18)
+    at /Users/gss/myEgg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/gss/myEgg/node_modules/koa-compose/index.js:44:32)
+    at /Users/gss/myEgg/node_modules/koa-compose/index.js:36:12
+
+pid: 1833
+hostname: gssdeiMac.local
+
+2019-08-20 17:30:58,171 ERROR 1833 [-/127.0.0.1/-/1ms GET /home/index] nodejs.TypeError: this.ctx.logger is not a function
+    at HomeController.index (/Users/gss/myEgg/app/controller/home.js:7:18)
+    at Object.callFn (/Users/gss/myEgg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/gss/myEgg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/gss/myEgg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/gss/myEgg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/gss/myEgg/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/gss/myEgg/node_modules/koa-compose/index.js:45:18)
+    at /Users/gss/myEgg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/gss/myEgg/node_modules/koa-compose/index.js:44:32)
+    at /Users/gss/myEgg/node_modules/koa-compose/index.js:36:12
+
+pid: 1833
+hostname: gssdeiMac.local
+
+2019-08-20 17:32:16,008 WARN 1835 [-/127.0.0.1/-/10ms GET /home/index] { content: '124' }
+2019-08-20 17:32:16,940 WARN 1835 [-/127.0.0.1/-/1ms GET /home/index] { content: '124' }
+2019-08-20 17:47:29,407 WARN 1865 [-/127.0.0.1/-/8ms GET /home/index] [ '1243', 41234 ]

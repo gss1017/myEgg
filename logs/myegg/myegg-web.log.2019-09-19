@@ -1,0 +1,8 @@
+2019-09-19 19:31:52,874 WARN 30745 [-/::1/-/3ms GET /home/index] [ '1243', 41234 ]
+2019-09-19 20:14:30,489 WARN 31668 [-/::1/-/3ms GET /home/index] [ '1243', 41234 ]
+2019-09-19 20:25:54,175 WARN 31668 [-/::1/-/1ms GET /home/index] [ '1243', 41234 ]
+2019-09-19 20:29:18,621 WARN 32054 [-/127.0.0.1/-/1ms GET /home/index] [ '1243', 41234 ]
+2019-09-19 20:43:05,315 INFO 32824 [-/127.0.0.1/-/11ms GET /home_list] [ 'home list', ' ok' ]
+2019-09-19 20:43:34,146 INFO 32844 [-/127.0.0.1/-/12ms GET /home_list] home list |  ok
+2019-09-19 20:44:22,237 INFO 32878 [-/127.0.0.1/-/13ms GET /home_list] home list | [object Object],[object Object]
+2019-09-19 20:44:49,101 INFO 32898 [-/127.0.0.1/-/11ms GET /home_list] home list | [{"hotelId":123456,"country":"America","province":"Georgia","city":"Bainbridge","hotelName":"Quality Inn Bainbridge","status":"1","address":"1403 Tallahassee Hwy"},{"hotelId":234531,"country":"Thailand","province":"bangko","city":"Bangkok","hotelName":"Adelphi Suites Bangkok","status":"0","address":"6 Sukhumvit Soi 8"}]
