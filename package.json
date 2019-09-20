@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "egg",
   "project": {
-    "port": 5555,
+    "port": 8002,
     "domain": "localhost"
   },
   "main": "index.js",
